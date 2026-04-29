@@ -1,11 +1,17 @@
 {
   "version": 2,
-  "dgSpecHash": "UQ+mCfVkX+s=",
+  "dgSpecHash": "Zkx8TLQbHDzdTxK2sc84wkFrKkq5gz+5+4OnR2tUbmZbxvdKgzbnxN4nmcD2aU1/bnJD1CpG64vs+HIKerUn/g==",
   "success": true,
-  "projectFilePath": "C:\\Internship_Tasks\\New_Project\\My-DevOps-Project\\Backend\\ProductService\\ProductService.csproj",
+  "projectFilePath": "/home/ubuntu/my-devops-project/Backend/ProductService/ProductService.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Sudarshan K.D Patil\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.5\\microsoft.aspnetcore.openapi.10.0.5.nupkg.sha512",
-    "C:\\Users\\Sudarshan K.D Patil\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512"
+    "/home/ubuntu/.nuget/packages/microsoft.aspnetcore.openapi/10.0.5/microsoft.aspnetcore.openapi.10.0.5.nupkg.sha512",
+    "/home/ubuntu/.nuget/packages/microsoft.extensions.apidescription.server/8.0.0/microsoft.extensions.apidescription.server.8.0.0.nupkg.sha512",
+    "/home/ubuntu/.nuget/packages/microsoft.openapi/2.4.1/microsoft.openapi.2.4.1.nupkg.sha512",
+    "/home/ubuntu/.nuget/packages/swashbuckle.aspnetcore/10.1.7/swashbuckle.aspnetcore.10.1.7.nupkg.sha512",
+    "/home/ubuntu/.nuget/packages/swashbuckle.aspnetcore.swagger/10.1.7/swashbuckle.aspnetcore.swagger.10.1.7.nupkg.sha512",
+    "/home/ubuntu/.nuget/packages/swashbuckle.aspnetcore.swaggergen/10.1.7/swashbuckle.aspnetcore.swaggergen.10.1.7.nupkg.sha512",
+    "/home/ubuntu/.nuget/packages/swashbuckle.aspnetcore.swaggerui/10.1.7/swashbuckle.aspnetcore.swaggerui.10.1.7.nupkg.sha512",
+    "/home/ubuntu/.nuget/packages/system.text.json/8.0.5/system.text.json.8.0.5.nupkg.sha512"
   ],
   "logs": []
 }
